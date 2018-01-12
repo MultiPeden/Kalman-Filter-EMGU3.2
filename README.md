@@ -9,4 +9,4 @@ Works with EMGU v. 3.2
 2. Copy the file Form1.cs from this repo into "/Kalman Filter"
 3. Replace the old imported [EMGU](http://www.emgu.com/wiki/index.php/Main_Page)  dll's with the new ones (v. 3.2).
 
-![](https://github.com/MultiPeden/Kalman-Filter-EMGU3.2/kalmanEmgu.gif)
+![](https://raw.githubusercontent.com/MultiPeden/Kalman-Filter-EMGU3.2/master/kalmanEmgu.gif)
